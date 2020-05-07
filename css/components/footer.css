@@ -1,0 +1,17 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #2d4d36;
+  }
+.fab{
+  color: white;
+  font-size: 30px;
+}
+
+.fab:hover{
+  color: black;
+  opacity: .2;
+}
+.links a + a {
+   padding-left: 1em;
+}
